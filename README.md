@@ -1,6 +1,6 @@
 # Hi there, I'm Pedro Henrique Angelo! 👋
 
-![Profile Banner](https://imgur.com/your-image-url) <!-- Substitua pelo URL real da sua imagem -->
+![Profile Banner](https://github.com/PedroHenriqueBarros/PedroHenriqueBarros/blob/main/WhatsApp%20Image%202024-06-03%20at%2023.29.36.jpeg?raw=true) 
 
 Welcome to my GitHub profile! I'm a passionate developer currently pursuing degrees in Analysis and Systems Development and Information Systems. Here, you can find some of my projects, contributions, and learn more about me.
 
@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a passionate developer currently pursuing degr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueBarros&layout=compact&theme=radical" alt="Top Languages" style="width: 50%;"/>
 </div>
 
-## 📝 Latest Blog Posts
+<!-- ## 📝 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
 - [Title of Your Latest Post](url-to-your-latest-post)
