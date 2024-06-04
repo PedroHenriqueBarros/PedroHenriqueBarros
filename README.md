@@ -1,6 +1,6 @@
-# Hey world, I'm Pedro Henrique Angelo! 👋
+# Hi there, I'm Pedro Henrique Angelo! 👋
 
-![Profile Banner](url-to-your-banner-image)
+![Profile Banner](https://imgur.com/your-image-url) <!-- Substitua pelo URL real da sua imagem -->
 
 Welcome to my GitHub profile! I'm a passionate developer currently pursuing degrees in Analysis and Systems Development and Information Systems. Here, you can find some of my projects, contributions, and learn more about me.
 
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer currently pursuing degr
 - 👯 I’m looking to collaborate on web development and data science projects.
 - 🤔 I’m looking for help with advanced JavaScript and web frameworks.
 - 💬 Ask me about Python, Java, and language learning tips.
-- 📫 How to reach me: [your email](mailto:your-email) or [LinkedIn](url-to-your-linkedin-profile).
+- 📫 How to reach me: [your email](mailto:your-email) or [LinkedIn](https://www.linkedin.com/in/pedro-henriques-barros-779617206/).
 - ⚡ Fun fact: My three first names can be used individually: Pedro, Henrique, Angelo.
 
 ## 💼 Soft Skills
@@ -42,8 +42,8 @@ Welcome to my GitHub profile! I'm a passionate developer currently pursuing degr
 ## 📊 GitHub Stats
 
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 50%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" style="width: 50%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueBarros&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 50%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueBarros&layout=compact&theme=radical" alt="Top Languages" style="width: 50%;"/>
 </div>
 
 ## 📝 Latest Blog Posts
@@ -56,15 +56,13 @@ Welcome to my GitHub profile! I'm a passionate developer currently pursuing degr
 ## 📂 Projects
 
 ### [Project Name](url-to-project-repo)
-I'm working on it...
+Still working on it...
 
 ### [Another Project](url-to-project-repo)
-I'm also working on it...
-
+Also working on it...
 ## 📫 Connect with Me
 
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/pedro-henriques-barros-779617206)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pedro-henriques-barros-779617206/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](url-to-your-twitter-profile)
 [![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](url-to-your-website)
 
