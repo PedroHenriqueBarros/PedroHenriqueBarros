@@ -63,7 +63,6 @@ I'm also working on it...
 
 ## 📫 Connect with Me
 
-[![LinkedIn]([www.linkedin.com/in/pedro-henriques-barros-779617206](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white))](www.linkedin.com/in/pedro-henriques-barros-779617206))
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/pedro-henriques-barros-779617206)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](url-to-your-twitter-profile)
 [![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](url-to-your-website)
@@ -71,3 +70,4 @@ I'm also working on it...
 ---
 
 ⭐️ From [Pedro Henrique Angelo]((https://github.com/PedroHenriqueBarros))
+⭐️ From [Pedro Henrique Angelo](https://github.com/PedroHenriqueBarros)
