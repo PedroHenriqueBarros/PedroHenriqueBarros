@@ -1,4 +1,4 @@
-# Hey World 🥰, I'm Pedro Henrique! 👋
+# Hey World 🥰, I'm Pedro Henrique! 👋 
 
 <img src="https://github.com/PedroHenriqueBarros/PedroHenriqueBarros/blob/main/WhatsApp%20Image%202024-06-03%20at%2023.29.36.jpeg?raw=true" alt="Profile Banner" width="300"/>
 
