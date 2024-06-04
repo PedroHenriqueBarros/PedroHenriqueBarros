@@ -1,7 +1,6 @@
-# Hi there, I'm Pedro Henrique Angelo! 👋
+# Hey World 🥰, I'm Pedro Henrique! 👋
 
-![Profile Banner]
-<img src="https://github.com/PedroHenriqueBarros/PedroHenriqueBarros/blob/main/WhatsApp%20Image%202024-06-03%20at%2023.29.36.jpeg?raw=true" alt="Profile Banner" width="400"/>
+<img src="https://github.com/PedroHenriqueBarros/PedroHenriqueBarros/blob/main/WhatsApp%20Image%202024-06-03%20at%2023.29.36.jpeg?raw=true" alt="Profile Banner" width="300"/>
 
 Welcome to my GitHub profile! I'm a passionate developer currently pursuing degrees in Analysis and Systems Development and Information Systems. Here, you can find some of my projects, contributions, and learn more about me.
 
@@ -16,9 +15,9 @@ Welcome to my GitHub profile! I'm a passionate developer currently pursuing degr
 - 🌍 Fluent in English, with basic knowledge of German and French.
 - 🎯 Aspiring to become a Software Engineer.
 - 👯 I’m looking to collaborate on web development and data science projects.
-- 🤔 I’m looking for help with advanced JavaScript and web frameworks.
-- 💬 Ask me about Python, Java, and language learning tips.
-- 📫 How to reach me: [your email](mailto:your-email) or [LinkedIn](https://www.linkedin.com/in/pedro-henriques-barros-779617206/).
+- 🤔 I’m looking for help with advanced programming skils.
+- 💬 Ask me about Applied Linguistics, Python, SQL, and language learning tips.
+- 📫 How to reach me: [your email](mailto:pedro.henriques10@hotmail.com) or [LinkedIn](https://www.linkedin.com/in/pedro-henriques-barros-779617206/).
 - ⚡ Fun fact: My three first names can be used individually: Pedro, Henrique, Angelo.
 
 ## 💼 Soft Skills
@@ -49,7 +48,7 @@ Welcome to my GitHub profile! I'm a passionate developer currently pursuing degr
 
 <!-- ## 📝 Latest Blog Posts -->
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --
 - [Title of Your Latest Post](url-to-your-latest-post)
 - [Title of Another Post](url-to-another-post)
 <!-- BLOG-POST-LIST:END -->
@@ -64,8 +63,11 @@ Also working on it...
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pedro-henriques-barros-779617206/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](url-to-your-twitter-profile)
-[![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](url-to-your-website)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/pbarros.ti/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:pedro.barros@ufrpe.br)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft&logoColor=white)](mailto:pedro.henriques10@hotmail.com)
+
+<!--[![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](url-to-your-website) -->
 
 ---
 
