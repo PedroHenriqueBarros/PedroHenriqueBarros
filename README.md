@@ -1,6 +1,7 @@
 # Hi there, I'm Pedro Henrique Angelo! 👋
 
-![Profile Banner](https://github.com/PedroHenriqueBarros/PedroHenriqueBarros/blob/main/WhatsApp%20Image%202024-06-03%20at%2023.29.36.jpeg?raw=true) 
+![Profile Banner]
+<img src="https://github.com/PedroHenriqueBarros/PedroHenriqueBarros/blob/main/WhatsApp%20Image%202024-06-03%20at%2023.29.36.jpeg?raw=true" alt="Profile Banner" width="400"/>
 
 Welcome to my GitHub profile! I'm a passionate developer currently pursuing degrees in Analysis and Systems Development and Information Systems. Here, you can find some of my projects, contributions, and learn more about me.
 
