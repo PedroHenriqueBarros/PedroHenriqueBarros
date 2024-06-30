@@ -55,11 +55,18 @@ Welcome to my GitHub profile! I'm a passionate developer currently pursuing degr
 
 ## 📂 Projects
 
-### [Project Name](url-to-project-repo)
-Still working on it...
+### [iFood Project](https://github.com/PedroHenriqueBarros/iFood-Project)
 
-### [Another Project](url-to-project-repo)
-Also working on it...
+During my Systems Analysis and Development course at FIAP, I am developing a web back-office solution for iFood's financial sector. The goal is to streamline financial management for partners by offering features such as real-time balance inquiries, statement viewing, order listings, and adjustments. The solution leverages HTML, CSS, and JavaScript with Bootstrap for the front-end, and integrates with an Oracle database using SQL and JavaScript to ensure data security and consistency. This ongoing project enables me to apply my knowledge in software engineering, web development, databases, and business, contributing to enhanced financial management for iFood partners.
+
+Note: This iFood project is initially in Portuguese, considering the target audience in Brazil.
+
+### [CoralSense](url-to-project-repo)
+
+The project aims to develop a coral bleaching monitoring system, a phenomenon caused by rising ocean temperatures that threatens reef health. The system will collect and centralize data on coral health, enabling the identification of trends and patterns to facilitate decision-making for the conservation of these vital ecosystems. This initiative is part of Global Solutions 2024, which aims to care for the oceans. The project targets researchers, environmental managers, educational institutions, and local communities, providing information and tools for the protection of coral reefs. 
+
+Note: This project is still in its embryonic phase.
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pedro-henriques-barros-779617206/)
